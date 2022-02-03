@@ -11,7 +11,7 @@ Activity.destroy_all
 # Add new Activity model with database table
 
 # 1. in terminal, run:
-# rails generate model Activity
+# rails generate model Activity - a join model between salespeople and contacts, and notes column
 
 # 2. open newly generated files
 
